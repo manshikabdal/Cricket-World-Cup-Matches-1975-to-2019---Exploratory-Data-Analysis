@@ -14,7 +14,8 @@
 * Visualized different graphs from the dataset.
 
 # Analysis- Result
-* Top 5 teams who have won the maximum matches are Australia, India, New Zealand, England then pakistan.
+* Top 5 teams who have won the maximum matches are Australia, India, New Zealand, England then Pakistan.
+* Lowest 3 team who have won the minimum matches are UAE, Afganistan and the Netherlands.
 * Score_first histogram is symmetric, this means the mean and median are close together. Score_second histogram is right skewed, so the mean is larger than the median.
 * Minimum run scored by a team who batted first is 36 and the team who batted second scored 32. Maximum run scored by a team who batted first is 417 and the team who batted second scored 338.
 * The positive slope of rep plot represents that there is the positive linear relation between score_first and score_second. As the value of independent variable, i.e. score_first increase, the values of dependent variables, i.e. score_second also increases.
